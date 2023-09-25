@@ -77,4 +77,4 @@ desc Consulta_medic;
 select * from Consulta_medic;
 alter table medico  auto_increment = 1;
 delete from medico;
--- drop database Consultorio;
+
