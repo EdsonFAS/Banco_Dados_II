@@ -110,4 +110,3 @@ desc usuario;
 update usuario set ativo_usu = true where id_usuario = 29;
 select * from usuario where nome_usu like '%A'; 
 update usuario set nome_usu= 'Russo' where id_usuario= 20;
- -- drop database sitesimulado;
